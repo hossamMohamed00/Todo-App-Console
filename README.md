@@ -19,6 +19,9 @@ Running on the command line display you some options such as :
 
 > Programming isn't about what you know; it's about making the command line look cool!
 
+## Explainer video
+[Video in Google Drive](https://drive.google.com/drive/folders/1KcGsvKpahdBQcAE8sTg3QsbR4RdewyJQ?usp=sharing)
+
 ## Dependencies 🏬
 
 This todo app uses a number of packages to work properly:
