@@ -1,0 +1,22 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Simple Todo app in console",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Nodejs"
+  ],
+  "author": "Hossam Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
